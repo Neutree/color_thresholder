@@ -7,3 +7,10 @@ color thresholder the same as openmv IDE's, and support multiple images at the s
 ![threshold_editor.gif](./assets/threshold_editor.gif)
 
 
+## Usage
+
+
+```
+pip install -r requirements.txt
+python color_thresholder.py
+```
